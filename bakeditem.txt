@@ -1,0 +1,5 @@
+Ch.croissant 2.3
+sausage(E.G) 4.5
+bacon(sand) 4.5
+Crispy(sand) 4.3
+diced(sand) 4.5
